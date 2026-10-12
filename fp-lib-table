@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TLV9002") (type "KiCad") (uri "E:/Downloads/TLV9002SIDGSR/TLV9002.pretty") (options "") (descr ""))
+)
